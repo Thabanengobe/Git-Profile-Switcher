@@ -1,11 +1,11 @@
-# 🔄 Git Profile Switcher
+# Git Profile Switcher
 
 A simple Bash CLI for quickly switching between **personal** and **work** GitHub profiles — including Git username, email, and SSH key configuration.  
 Perfect for developers who use **multiple GitHub accounts** on the same machine.
 
 ---
 
-## 📌 Features
+## Features
 
 - Store and reuse **work** and **personal** Git configuration.
 - Automatically **generate SSH keys** for each profile.
